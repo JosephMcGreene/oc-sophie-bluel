@@ -26,7 +26,7 @@ Finally, it will be helpful to know the exact locations on the server from which
 
 4. Open your preferred browser and navigate to [http://localhost:5678](http://localhost:5678). If the browser displays a white page with "Cannot GET /" then that is actually a sign you've gotten the server running _correctly_. If you get a different page that says the browser was unable to connect, something has gone wrong. Make sure you are navigated to the correct folder for all of this: **Sophie-Bluel-website-en-master/Backend**.
 
-5. In your browser URL bar, navigate to [http://localhost:5678/api-docs](http://localhost:5678/api-docs). This page is a master list of all of the data endpoints from which you will be posting and getting data from throughout this project.
+5. In your browser URL bar, navigate to [http://localhost:5678/api-docs](http://localhost:5678/api-docs). This page is a master list of all of the data endpoints from which you will be posting and getting data throughout this project.
 
 When you are ready to shut down the development server, you can use "ctrl + C" or "cmd + C" in your terminal. When you want to continue working, you'll need to run `npm run start` again from the Backend directory.
 
