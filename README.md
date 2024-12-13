@@ -1,10 +1,10 @@
-#Instructions to Run the Code
+# Instructions to Run the Server
 
-Start the back end from your terminal by following the instructions in this README file (below).
+This project only has you editing code in the front end (browser side) of the application, but an important part of being a front-end developer is interacting with the back end, the server. So you'll need to get the existing server up and running in order to have a place to fetch data from.
 
 ---
 
-##Overview
+## Overview
 
 First you'll need to make sure your device's version of the project has all the dependencies the project needs to be able to actually run (Steps 1-2 below). If you'd like, you can view the dependencies in Backend/package.json.
 
@@ -14,7 +14,7 @@ Finally, it will be helpful to know the exact locations on the server from which
 
 ---
 
-##Steps to Get Started
+## Steps to Get Started
 
 1. Navigate into the Backend directory. Do this with the `cd` command in your terminal, followed by the file path to wherever your project is on your device.
 
