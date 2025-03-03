@@ -24,7 +24,7 @@ Finally, it will be helpful to know the exact locations on the server from which
 
 3. Now that you have all of the dependencies necessary to start the back end server, run `npm run start` in your terminal. This will fire up the development server you will use for the project.
 
-4. Open your preferred browser and navigate to [http://localhost:5678](http://localhost:5678). If the browser displays a white page with "Cannot GET /" then that is actually a sign you've gotten the server running _correctly_. If you get a different page that says the browser was unable to connect, something has gone wrong. Make sure you are navigated to the correct folder for all of this: **Sophie-Bluel-website-en-master/Backend**.
+4. Open your preferred browser and navigate to [http://localhost:5678](http://localhost:5678). If the browser displays a white page with "Cannot GET /" then that is actually a sign you've gotten the server running _correctly_. If you get a different page that says the browser was unable to connect, something has gone wrong. Make sure in your terminal you are navigated to the correct folder for all of this: **Sophie-Bluel-website-en-master/Backend**.
 
 5. In your browser URL bar, navigate to [http://localhost:5678/api-docs](http://localhost:5678/api-docs). This page is a master list of all of the data endpoints from which you will be posting and getting data throughout this project.
 
